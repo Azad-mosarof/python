@@ -12,9 +12,9 @@ print(type(current_time.minute))
 
 #send Email
 def sendEmail(text):
-    email_sender='naturelover7908@gmail.com'
-    email_pass='tyyiqadlboxefwei'
-    email_rec=['misarofazad@gmail.com','am.21u10052@btech.nitdgp.ac.in']
+    email_sender='sender_email'
+    email_pass='password'
+    email_rec=['reciver1_email_id','reciver2_email_id']
     subject='check this out'
 
     for i in range(len(email_rec)):

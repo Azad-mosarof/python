@@ -3,8 +3,6 @@ THis program is capable of converting from one currency to another as of today i
 It uses the api at fixer.io and then calculates the value of the currency in terms of the other as of today.
 """
 
-# https://github.com/chavarera/python-mini-projects/issues
-# https://medium.com/@cereblanco/setup-black-and-isort-in-vscode-514804590bf9
 # Source: https://fixer.io/quickstart
 # Imp read: https://stackoverflow.com/questions/3139879/how-do-i-get-currency-exchange-rates-via-an-api-such-as-google-finance
 
